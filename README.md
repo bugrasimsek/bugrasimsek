@@ -4,4 +4,4 @@
 <p align="left">
   
 [![Medium Badge](./img/medium.svg)](https://medium.com/@bugrasimsek) 
-[![Linkedin Badge](devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/bugra-simsek/) 
+[![Linkedin Badge](./img/linkedin.svg)](https://www.linkedin.com/in/bugra-simsek/) 
