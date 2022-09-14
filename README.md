@@ -8,5 +8,9 @@
 
 [<img title="Linkedin" alt="Linkedin" src="https://raw.githubusercontent.com/bugrasimsek/bugrasimsek/420f91f15f83b3869d4cb6d45c5fd3f5b77511cb/img/linkedin.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>][linkedin]
 	
+[<img title="Medium" alt="Medium" src="https://github.com/bugrasimsek/bugrasimsek/blob/main/img/medium.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>][medium]	
+
+alt: https://raw.githubusercontent.com/bugrasimsek/bugrasimsek/081083bd7fe54f758514240d33ba08546bd84f99/img/medium.svg
+
 [medium]: https://medium.com/@bugrasimsek
 [linkedin]:https://www.linkedin.com/in/bugra-simsek/
