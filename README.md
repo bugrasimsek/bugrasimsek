@@ -1,4 +1,4 @@
-### Hello, world! 👋
+### Future computer scientist, currently third grader at Hacettepe University.
 
 🌐 **Accounts**
 
