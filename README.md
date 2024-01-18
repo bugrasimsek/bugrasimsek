@@ -1,4 +1,4 @@
-### Future computer scientist, currently third grader at Hacettepe University.
+### Computer Science Student at Hacettepe University. 
 
 🌐 **Accounts**
 
